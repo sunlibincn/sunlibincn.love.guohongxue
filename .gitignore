@@ -1,0 +1,12 @@
+
+.idea/*
+logs/*
+target/*
+*.log
+*.log.*
+log.*
+#*.png
+#*.jpg
+*.DS_Store
+*.iml
+src/main/webapp/upload/*
